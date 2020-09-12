@@ -10,4 +10,5 @@ the autoexec i use for csgo
 
 ### Cool aliases
 +crosshair - my crosshair i use
+
 +sens - mouse sens
