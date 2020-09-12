@@ -18,11 +18,19 @@ You may edit this autoexec/cfg to fit your playstyle if you need to or don't lik
 - Aliases to turn on stuff. (see below)
 
 ### Cool aliases
+You can add these to the start of the autoexec/cfg after the alias lines or type them in console.
+
 `+crosshair` - my crosshair I use. "Minecraft crosshair".
 
 `+sens` - mouse sens I use.
 
 `+swapctrl-shift` - swaps commands from the L-CTRL key with the L-SHIFT key.
+
+`+reset-hud` - resets HUD scaling to default.
+
+`+reset-viewmodel` - resets viewmodel FOV to default and viewmodel offset to 0.
+
+`+reset-other` resets all commands in the "other." section of the autoexec/cfg to default.
 
 ### Buy binds
 See the `gun-binds.png` image for more details on that.
