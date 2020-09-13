@@ -7,7 +7,7 @@ You may edit this autoexec/cfg to fit your playstyle if you need to or don't lik
 
 ## How to install
 1. Download the autoexec file
-2. Copy and paste the file to `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` or whereever your CSGO folder is.
+2. Copy and paste the autoexec/cfg to your CSGO `/csgo/cfg` folder.
 3. Launch CSGO and type `exec autoexec` in console.
 4. play game.
 
