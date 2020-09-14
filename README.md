@@ -1,5 +1,5 @@
 # Ktg5's CSGO autoexec (cfg)
-the autoexec/cfg i use for csgo
+the autoexec i use for csgo
 
 (thanks franz for cool sounds when press button)
 
@@ -7,7 +7,7 @@ You may edit this autoexec/cfg to fit your playstyle if you need to or don't lik
 
 ## How to install
 1. Download the autoexec file
-2. Copy and paste the autoexec/cfg to your CSGO `/csgo/cfg` folder.
+2. Go to your CSGO installation and go to `/csgo/cfg` then copy and paste the autoexec into that `cfg` folder.
 3. Launch CSGO and type `exec autoexec` in console.
 4. play game.
 
@@ -19,7 +19,7 @@ You may edit this autoexec/cfg to fit your playstyle if you need to or don't lik
 - Aliases to turn on stuff. (see below)
 
 ### Cool aliases
-You can add these to the start of the autoexec/cfg at the end of the autoexec/cfg or use the aliases in console.
+You can add these to the start of the autoexec at the end of the autoexec/cfg or use the aliases in console.
 
 `+crosshair` - my crosshair I use. "Minecraft crosshair".
 
