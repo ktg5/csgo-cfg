@@ -1,4 +1,4 @@
-# Ktg5's CSGO autoexec (cfg)
+# Ktg5's CSGO autoexec
 the autoexec i use for csgo
 
 (thanks franz for cool sounds when press button)
