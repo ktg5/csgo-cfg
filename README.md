@@ -23,7 +23,7 @@ You can add these to the start of the autoexec at the end of the autoexec/cfg or
 
 `+crosshair` - my crosshair I use. "Minecraft crosshair".
 
-`+sens` - mouse sens I use.
+`+sens` - in-game mouse sens I use.
 
 `+swapctrl` - swaps L-CTRL to what would be default (+ sound).
 
