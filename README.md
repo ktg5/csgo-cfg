@@ -15,7 +15,7 @@ You may edit this autoexec/cfg to fit your playstyle if you need to or don't lik
 - L-SHIFT is duck, and L-CTRL is walk. (you can change this by running `+swapctrl` and `+swapshift` or by editing the autoexec.)
 - Cool sound effects when pressing keys like L-SHIFT and L-CTRL.
 - Turns off very uncool things like switching to the gun you just picked up, and use = buy as well.
-- Swap left and right hands by pressing T.
+- Swap left and right hands by pressing V.
 - Aliases to turn on stuff. (see below)
 
 ### Cool aliases
