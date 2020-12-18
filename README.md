@@ -1,8 +1,6 @@
 # Ktg5's CSGO autoexec
 the autoexec i use for csgo
 
-(thanks franz for cool sounds when press button)
-
 You may edit this autoexec/cfg to fit your playstyle if you need to or don't like something about this.
 
 ## How to install
@@ -35,5 +33,4 @@ You can add these to the start of the autoexec at the end of the autoexec/cfg or
 
 `+reset-other` resets all commands in the "other." section of the autoexec/cfg to default.
 
-### Buy binds
-See the `gun-binds.png` image for more details on that.
+### [Buy binds](https://github.com/ktg5/csgo-autoexec/blob/master/key-binds.png)
