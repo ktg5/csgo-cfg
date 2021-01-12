@@ -1,4 +1,9 @@
 # Ktg5's CSGO autoexec
+
+## Stable build: [1009](https://github.com/ktg5/csgo-autoexec/releases)
+
+## Dev build: [1010-b1](https://github.com/ktg5/csgo-autoexec/archive/master.zip)
+
 the autoexec i use for csgo
 
 You may edit this autoexec/cfg to fit your playstyle if you need to or don't like something about this.
