@@ -2,7 +2,7 @@
 
 ## Stable build: [1010](https://github.com/ktg5/csgo-autoexec/releases)
 
-## Dev build: [1010](https://github.com/ktg5/csgo-autoexec/archive/master.zip)
+## Dev build: [1011](https://github.com/ktg5/csgo-autoexec/archive/master.zip)
 
 the autoexec i use for csgo
 
