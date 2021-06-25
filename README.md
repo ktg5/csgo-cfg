@@ -16,11 +16,14 @@ You may edit this autoexec/cfg to fit your playstyle if you need to or don't lik
 5. Test out the config, edit to your liking, and test some more.
 
 ## Build 1011!
-### What does Build 1011 do?
+### What does Build 1012 do?
 Build 1011 has added the following:
-- Crosshair is ran at the start of the autoexec.
-- Crosshair will change color when using `+attack`.
-- Most aliases now start with `cfg_` instead of `+`.
+- Crosshair & viewmodel updates. (Crosshair is a bit thicker, and `viewmodel_x` is set to `1.3` instead of `3`)
+- Scope thickness added -- makes the lines/dot (if running the SG (NOT SSG)) inside of the scope bigger by a specific amount, which is `3`.
+- Mouse sensitivity alias is now set to the default CSGO sensitivity; `1`.
+- Jump bind for nades has been added and set to "F3".
+- Takes damage information from console and puts it on the top left of the screen.
+- Added funny messages commands. (Find them yourself...)
 
 ### How do I update?
 For those who are just getting into autoexecs, follow the steps on "How to install".
