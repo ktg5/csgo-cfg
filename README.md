@@ -1,8 +1,8 @@
 # Ktg5's CSGO autoexec
 
-## Stable build: [1011](https://github.com/ktg5/csgo-autoexec/releases)
+## Stable build: [1012](https://github.com/ktg5/csgo-autoexec/releases)
 
-## Dev build: [1011](https://github.com/ktg5/csgo-autoexec/archive/master.zip)
+## Dev build: [1012](https://github.com/ktg5/csgo-autoexec/archive/master.zip)
 
 the autoexec i use for csgo
 
@@ -15,15 +15,15 @@ You may edit this autoexec/cfg to fit your playstyle if you need to or don't lik
 4. Open up console and type `exec autoexec`.
 5. Test out the config, edit to your liking, and test some more.
 
-## Build 1011!
+## Build 1012!
 ### What does Build 1012 do?
-Build 1011 has added the following:
+Build 1012 has added the following:
 - Crosshair & viewmodel updates. (Crosshair is a bit thicker, and `viewmodel_x` is set to `1.3` instead of `3`)
 - Scope thickness added -- makes the lines/dot (if running the SG (NOT SSG)) inside of the scope bigger by a specific amount, which is `3`.
 - Mouse sensitivity alias is now set to the default CSGO sensitivity; `1`.
 - Jump bind for nades has been added and set to "F3".
 - Takes damage information from console and puts it on the top left of the screen.
-- Added funny messages commands. (Find them yourself...)
+- Added funny message commands. (Find them yourself...)
 
 ### How do I update?
 For those who are just getting into autoexecs, follow the steps on "How to install".
