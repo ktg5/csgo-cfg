@@ -1,8 +1,8 @@
-# Ktg5's CSGO autoexec
+# Ktg5's CSGO cfg (autoexec)
 
-## Stable build: [1012](https://github.com/ktg5/csgo-autoexec/releases)
+## Stable build: [1012](https://github.com/ktg5/csgo-cfg/releases)
 
-## Dev build: [1012](https://github.com/ktg5/csgo-autoexec/archive/master.zip)
+## Dev build: [1013](https://github.com/ktg5/csgo-cfg/archive/master.zip)
 
 the autoexec i use for csgo
 
