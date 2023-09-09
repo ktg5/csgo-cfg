@@ -17,7 +17,7 @@ You may edit this autoexec/cfg to fit your playstyle if you need to or don't lik
 
 ## Build 1013!
 ### Remove all funnies, we gettin' serious in here.
-Build 1012 has added the following:
+Build 1013 has added the following:
 - Crosshair changes when left-clicking or right-clicking.
 - Remove the god awful sound effects on keybinds.
 - Put the bomb icon in invertory instead of under the radar.
