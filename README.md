@@ -1,6 +1,6 @@
 # Ktg5's CSGO cfg (autoexec)
 
-## Stable build: [1012](https://github.com/ktg5/csgo-cfg/releases)
+## Stable build: [1013](https://github.com/ktg5/csgo-cfg/releases)
 
 ## Dev build: [1013](https://github.com/ktg5/csgo-cfg/archive/master.zip)
 
@@ -15,15 +15,14 @@ You may edit this autoexec/cfg to fit your playstyle if you need to or don't lik
 4. Open up console and type `exec autoexec`.
 5. Test out the config, edit to your liking, and test some more.
 
-## Build 1012!
-### What does Build 1012 do?
+## Build 1013!
+### Remove all funnies, we gettin' serious in here.
 Build 1012 has added the following:
-- Crosshair & viewmodel updates. (Crosshair is a bit thicker, and `viewmodel_x` is set to `1.3` instead of `3`)
-- Scope thickness added -- makes the lines/dot (if running the SG (NOT SSG)) inside of the scope bigger by a specific amount, which is `3`.
-- Mouse sensitivity alias is now set to the default CSGO sensitivity; `1`.
-- Jump bind for nades has been added and set to "F3".
-- Takes damage information from console and puts it on the top left of the screen.
-- Added funny message commands. (Find them yourself...)
+- Crosshair changes when left-clicking or right-clicking.
+- Remove the god awful sound effects on keybinds.
+- Put the bomb icon in invertory instead of under the radar.
+- `autoexec_help.cfg`
+- Some other stuff I probably forgot about.
 
 ### How do I update?
 For those who are just getting into autoexecs, follow the steps on "How to install".
@@ -39,6 +38,8 @@ If you have edited the autoexec with some code of your own, I recommend you rena
 - Aliases to turn on stuff. (see below)
 
 ### Cool aliases
+If you download the `autoexec_help.cfg`, you can use `cfg_help` view all the aliases that are in the config.
+
 You can add these to the start of the autoexec at the end of the autoexec/cfg or use the aliases in console.
 
 `+streamer_mode` enables things streamers should enable. Read more about streamer mode [here](https://github.com/ktg5/csgo-autoexec#Information-about-streamer-mode).
@@ -49,7 +50,7 @@ You can add these to the start of the autoexec at the end of the autoexec/cfg or
 
 `cfg_reset_viewmodel` - resets viewmodel FOV to default and viewmodel offset to 0.
 
-`cfgreset_other` - resets all commands in the "other." section of the autoexec/cfg to default.
+`cfg_reset_other` - resets all commands in the "other." section of the autoexec/cfg to default.
 
 ### [Buy binds](https://github.com/ktg5/csgo-autoexec/blob/master/key-binds.png)
 
